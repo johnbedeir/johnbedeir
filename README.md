@@ -2,7 +2,7 @@
 
 ## I'm a DevOps Engineer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -63,3 +63,4 @@
 [youtube]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
 [instagram]: https://www.instagram.com/johnbedeir/
 [linkedin]: https://www.linkedin.com/in/johnbedeir/
+[course]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
