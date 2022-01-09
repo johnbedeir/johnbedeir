@@ -64,14 +64,14 @@
   <summary>:zap: Devops Tools Documentation</summary>
   
 <!--START_SECTION:activity-->
-8. [Kubernetes](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Kubernetes)
-7. [Jenkins](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Jenkins)
-6. [AWS](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/AWS)
-5. [Ansible Molecule](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Ansible-Molecule)
-4. [Ansible Playbook Template](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Ansible-Playbook/ansible-playbook%20(example).yml)
-3. [Docker-Compose](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Docker-Compose/docker-compose.yml)  
-2. [Docker Commands](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Docker/Docker_commands.MD)  
 1. [Git Commands](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Git)
+2. [Docker Commands](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Docker/Docker_commands.MD)  
+3. [Docker-Compose](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Docker-Compose/docker-compose.yml)  
+4. [Ansible Playbook Template](https://github.com/johnbedeir/Devops-Tools-Documentation/blob/main/Ansible-Playbook/ansible-playbook%20(example).yml)
+5. [Ansible Molecule](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Ansible-Molecule)
+6. [AWS](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/AWS)
+7. [Jenkins](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Jenkins)
+8. [Kubernetes](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Kubernetes)
 <!--END_SECTION:activity-->
 
 </details>
