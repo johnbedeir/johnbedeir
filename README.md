@@ -42,6 +42,13 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kubernetes | EKS | Cluster (Part 3)](https://www.youtube.com/watch?v=4Tkxe0VjrYw)
+- [Kubernetes | MiniKube| Elasticity |Fault Tolerance | High Availability (Part 2)](https://www.youtube.com/watch?v=kV4jINv3s-k)
+- [Kubernetes | Scalability | Monolithic vs Microservices (Part 1)](https://www.youtube.com/watch?v=YfJZBngbhM8&t=537s)
+- [Jenkins | Docker | Ansible | EC2 AWS](https://www.youtube.com/watch?v=awqwdGM_Trw&t=1379s)
+- [Deploy website on AWS](https://www.youtube.com/watch?v=NeGdfKEXA-E)
+- [Finding Job Tips](https://www.youtube.com/watch?v=PAMMBb1fHOM)
+- [Ansible Moleule](https://www.youtube.com/watch?v=no8ZM1F7rhA&t=1714s)
 - [Git - Github - Gitlab - Bitbucket](https://www.youtube.com/watch?v=MC5ZAyGl2bw&t=1347s)
 - [Docker Compose](https://www.youtube.com/watch?v=mZdU7r8Rf5c&t=4s)
 - [Ansible Playbook](https://www.youtube.com/watch?v=-86oMSw6pSc)
