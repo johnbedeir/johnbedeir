@@ -5,7 +5,7 @@
 - 🔭 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Jump to the next level and integrate Network and Security with DevOps >> DevSecOps 
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
