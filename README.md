@@ -116,6 +116,6 @@
 [course]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
 [facebook]: https://www.facebook.com/JohnyDev-293895207431248
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbedeir&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbedeir&show_icons=true&theme=tokyonight) -->
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90&descAlign=20)
