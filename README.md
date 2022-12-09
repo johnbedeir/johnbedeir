@@ -23,7 +23,7 @@
 <p align="left">
 <img  alt="Terminal" width="30px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
 <img  alt="ubuntu" width="35px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img  alt="redhat" width="35px" src="https://johnydev.com/img/icons/redhat.png"/>
+<img  alt="redhat" width="35px" src="https://johnydev.com/img/icons/redhat.png">
 <img  alt="debian" width="35px" src="https://johnydev.com/img/icons/debian.png"/>
 <img  alt="centos" width="35px" src="https://img.icons8.com/color/48/000000/centos.png"/>
 <img  alt="Rasp" width="35px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
