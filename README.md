@@ -1,9 +1,16 @@
 ## I'm a Site Reliability Engineer!!
 
+<<<<<<< HEAD
 - 🔭 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Deepdive more into DevSecOps & SRE
+=======
+- 🚀 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
+- 📖 I’m currently learning everything 🤣
+- 🧑🏻‍🤝‍🧑🏻 I’m looking to collaborate with other content creators
+- ✅ 2022 Goals: Jump to the next level DevSecOps & SRE
+>>>>>>> main
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ![alt text](youtube.png)
@@ -115,3 +122,8 @@
 [facebook]: https://www.facebook.com/JohnyDev-293895207431248
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbedeir&show_icons=true&theme=tokyonight) -->
+<<<<<<< HEAD
+=======
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90&descAlign=20)
+>>>>>>> main
