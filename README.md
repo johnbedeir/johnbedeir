@@ -1,16 +1,9 @@
 ## I'm a Site Reliability Engineer!!
 
-<<<<<<< HEAD
-- 🔭 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Deepdive more into DevSecOps & SRE
-=======
 - 🚀 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
 - 📖 I’m currently learning everything 🤣
 - 🧑🏻‍🤝‍🧑🏻 I’m looking to collaborate with other content creators
 - ✅ 2022 Goals: Jump to the next level DevSecOps & SRE
->>>>>>> main
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ![alt text](youtube.png)
