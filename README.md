@@ -4,9 +4,6 @@
 - 📖 I’m currently learning everything 🤣
 - 🧑🏻‍🤝‍🧑🏻 I’m looking to collaborate with other content creators
 - ✅ 2024 Goal: Explore Cutting-edge DevOps tools
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-
-![alt text](icons/youtube.png)
 
 ### Connect with me:
 
@@ -15,6 +12,8 @@
 [<img alt="https://www.linkedin.com/in/johnbedeir/" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>][linkedin]
 [<img alt="https://www.instagram.com/johnbedeir/" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>][instagram]
 [<img alt="https://www.facebook.com/JohnyDev-293895207431248" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/>][facebook]
+
+![alt text](icons/youtube.png)
 
 <br />
 
@@ -73,44 +72,9 @@
 <img  alt="garden-io" width="30px" src="icons/garden.png"/>
 <p>
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [Vagrant](https://www.youtube.com/watch?v=uo-0PkcUze8&list=PLQ5OGqigB8VlnBUhBTVWQ65OxglYiV6LE&index=11)
-- [Microsoft Azure | Ubuntu VM](https://youtu.be/16M_Gy16500)
-- [Google Cloud Platform | Windows VM](https://youtu.be/Llf_1mO1Uu0)
-- [Google Cloud Platform | Ubuntu VM](https://youtu.be/CimnP9XDwHI)
-- [DigitalOcean | Provisioning](https://youtu.be/GZmfhdHlnNs)
-- [DigitalOcean | Ubuntu | Droplet | Terraform](https://youtu.be/R3dNWIjZ14M)
-- [DevOps Pipeline](https://youtu.be/vrdlDh2GAPw)
-- [Terraform | AWS | EC2 | Ubuntu](https://youtu.be/V6CPs_C9v8A)
-- [Terraform - Part 1](https://youtu.be/zF_N4flz8lw)
-- [Kubernetes | EKS | Cluster (Part 3)](https://www.youtube.com/watch?v=4Tkxe0VjrYw)
-- [Kubernetes | MiniKube| Elasticity |Fault Tolerance | High Availability (Part 2)](https://www.youtube.com/watch?v=kV4jINv3s-k)
-- [Kubernetes | Scalability | Monolithic vs Microservices (Part 1)](https://www.youtube.com/watch?v=YfJZBngbhM8&t=537s)
-- [Jenkins | Docker | Ansible | EC2 AWS](https://www.youtube.com/watch?v=awqwdGM_Trw&t=1379s)
-- [Deploy website on AWS](https://www.youtube.com/watch?v=NeGdfKEXA-E)
-- [Finding Job Tips](https://www.youtube.com/watch?v=PAMMBb1fHOM)
-- [Ansible Moleule](https://www.youtube.com/watch?v=no8ZM1F7rhA&t=1714s)
-- [Git - Github - Gitlab - Bitbucket](https://www.youtube.com/watch?v=MC5ZAyGl2bw&t=1347s)
-- [Docker Compose](https://www.youtube.com/watch?v=mZdU7r8Rf5c&t=4s)
-- [Ansible Playbook](https://www.youtube.com/watch?v=-86oMSw6pSc)
-- [Docker](https://www.youtube.com/watch?v=konAsZCudrA&t=1498s)
-- [Devops Tools](https://www.youtube.com/watch?v=KvZ5xyLT-Dw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA)
-
----
-
 [website]: https://johnydev.com
 [youtube]: https://www.youtube.com/channel/UCxvd-DdyFsE_07lCa4kRINA
 [instagram]: https://www.instagram.com/johnbedeir/
 [linkedin]: https://www.linkedin.com/in/johnbedeir/
 [course]: https://www.youtube.com/@JohnyDev
 [facebook]: https://www.facebook.com/JohnyDev-293895207431248
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbedeir&show_icons=true&theme=tokyonight) -->
