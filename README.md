@@ -12,8 +12,7 @@
 [<img alt="https://www.linkedin.com/in/johnbedeir/" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>][linkedin]
 [<img alt="https://www.instagram.com/johnbedeir/" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>][instagram]
 [<img alt="https://www.facebook.com/JohnyDev-293895207431248" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/>][facebook]
-
-[<img alt="https://www.tiktok.com/@johnydev2" src="icons/icons8-tiktok-100.png">][tiktok]
+<img alt="https://www.tiktok.com/@johnydev2" src="icons/icons8-tiktok-100.png" width="64px">
 ![alt text](icons/youtube.png)
 
 [website]: https://johnydev.com
