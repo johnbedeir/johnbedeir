@@ -13,8 +13,6 @@
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnbedeir" alt="johnbedeir" /></a> </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=johnbedeir&theme=dark" alt="johnbedeir"/></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=johnbedeir&show_icons=true&theme=dark&locale=en" alt="johnbedeir"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/johnbedeir/johnbedeir/main/github-metrics.svg" alt="GitHub Metrics with Streaks"></p>
