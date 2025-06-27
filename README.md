@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=🚀+Site+Reliability+Engineer+with+a+Creator%27s+Heart;⚙️+Automating+Infra+%7C+Shipping+Code+%7C+Scaling+Chaos;🎬+Breaking+Prod+by+Day+Fixing+it+by+Night" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Senior+Site+Reliability+Engineer;%E2%9A%99%EF%B8%8F+Building+and+Automating+Infra;%E2%9A%A1+Scaling+Chaos;%F0%9F%98%8C+Breaking+Prod+by+Day+Fixing+it+by+Night+" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#00FFFF">JohnyDev</span> 👋</h1>
