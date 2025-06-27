@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,kotlin,terraform,linux,ubuntu,redhat,apple,raspberrypi,arch,windows,bash,ansible,go,python,js,ts,html,css,php,nodejs,flask,django,redis,postgres,mysql,mongodb,cassandra,elasticsearch,jenkins,git,github,gitlab,bitbucket,githubactions,prometheus,grafana,nginx,cloudflare,vscode,django,heroku,sqlite,selenium,photoshop,premiere,aftereffects,notion,markdown" />
 
-  <img src="https://keda.sh/img/logos/keda-horizontal-color.png" alt="KEDA" width="100" height="40" style="vertical-align: middle; margin-left: 0px;" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/color/k3s-icon-color.svg" alt="K3s" width="40" height="40" style="vertical-align: middle; margin-left: 100px;" />
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="40" height="40" style="vertical-align: middle; margin-left: 100px;" />
+  <img src="https://keda.sh/img/logos/keda-horizontal-color.png" alt="KEDA" width="100" height="40" style="vertical-align: middle; margin-left: 6px;" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/color/k3s-icon-color.svg" alt="K3s" width="40" height="40" style="vertical-align: middle; margin-left: 6px;" />
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="40" height="40" style="vertical-align: middle; margin-left: 6px;" />
 </p>
